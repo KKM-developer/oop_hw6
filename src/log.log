@@ -1,0 +1,4 @@
+февр. 15, 2023 7:28:45 PM Service.impl.SolveIpml solve
+INFO: Sum: varA=6.0; varB=10.0operationSUMMARIZEResult: 16.0
+февр. 15, 2023 7:29:01 PM Service.impl.SolveIpml solve
+INFO: Difference: varA=90.0; varB=1234.0operationDIFFERENCEResult: -1144.0
